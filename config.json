@@ -1,6 +1,14 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"KJH50博客",
+    "homeUrl":"https://blog.273800.xyz/",
+    "subTitle":"KJH50博客,要为了写教程，写日常。",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/89094301?s=400&u=7ff4555a4c5e5c67caf1535edea09e816a59c849&v=4",
+    "GMEEK_VERSION":"last",
+    "needComment":1,
+    "startSite":"07/14/2024",
+    "UTC":8,
+    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "singlePage":["about"],
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "onePageListNum":15
 }
