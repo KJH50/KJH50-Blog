@@ -1,2 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KJH50博客</title><link>https://blog.273800.xyz/</link><description>KJH50博客,要为了写教程，写日常。</description><copyright>KJH50博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/89094301?s=400&amp;u=7ff4555a4c5e5c67caf1535edea09e816a59c849&amp;v=4</url><title>avatar</title><link>https://blog.273800.xyz/</link></image><lastBuildDate>Thu, 15 May 2025 12:54:25 +0000</lastBuildDate><managingEditor>KJH50博客</managingEditor><ttl>60</ttl><webMaster>KJH50博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KJH50博客</title><link>https://blog.273800.xyz/</link><description>KJH50博客,要为了写教程，写日常。</description><copyright>KJH50博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/89094301?s=400&amp;u=7ff4555a4c5e5c67caf1535edea09e816a59c849&amp;v=4</url><title>avatar</title><link>https://blog.273800.xyz/</link></image><lastBuildDate>Thu, 15 May 2025 13:03:01 +0000</lastBuildDate><managingEditor>KJH50博客</managingEditor><ttl>60</ttl><webMaster>KJH50博客</webMaster><item><title>新年</title><link>https://blog.273800.xyz//post/xin-nian.html</link><description>### 2025年·新年
+新年新气象。</description><guid isPermaLink="true">https://blog.273800.xyz//post/xin-nian.html</guid><pubDate>Thu, 15 May 2025 13:01:10 +0000</pubDate></item><item><title>中秋</title><link>https://blog.273800.xyz//post/zhong-qiu.html</link><description>### 是个糟糕的中秋
+第一次离家过中秋节，一种新的体验。</description><guid isPermaLink="true">https://blog.273800.xyz//post/zhong-qiu.html</guid><pubDate>Thu, 15 May 2025 13:00:47 +0000</pubDate></item><item><title>空洞骑士联机教程</title><link>https://blog.273800.xyz//post/kong-dong-qi-shi-lian-ji-jiao-cheng.html</link><description># 空洞骑士联机教程
+## 一.空洞骑士联机mod安装
+### 1.下载Lumafly-这是一个空洞骑士模组管理软件
+![QQ截图20240714000525](https://github.com/user-attachments/assets/62f41618-d8a3-49df-9305-45a67a12be3f)
+`Gmeek-html&lt;img src='https://s21.ax1x.com/2024/07/14/pk4blvj.png'&gt;`
+下载链接:https://themulhima.github.io/Lumafly/ **软件自带中文**
+### 2.打开Lumafly软件
+打开Lumafly软件,点击模组按钮
+![QQ截图20240714000900](https://github.com/user-attachments/assets/e2e56f11-749a-4959-aa99-433733375046)
+`Gmeek-html&lt;img src='https://s21.ax1x.com/2024/07/14/pk4b3Ks.png'&gt;`
+### 3.搜索模组
+在软件上方搜索栏搜索 **HKMP** 并找到该模组，在该模组右边安装选项点击安装。</description><guid isPermaLink="true">https://blog.273800.xyz//post/kong-dong-qi-shi-lian-ji-jiao-cheng.html</guid><pubDate>Thu, 15 May 2025 12:59:49 +0000</pubDate></item><item><title>电脑系统安装教程[简单]</title><link>https://blog.273800.xyz//post/dian-nao-xi-tong-an-zhuang-jiao-cheng-%5B-jian-dan-%5D.html</link><description># 电脑系统安装教程[简单]----直接安装系统
+### 要求
+- 一台能使用的电脑
+- 一台需要装系统的电脑[符合系统需求]
+- 一个8gb以上的u盘
+
+### 第1步
+打开微软官网win11网站：https://www.microsoft.com/zh-cn/software-download/windows11
+![QQ截图20240715005831](https://github.com/user-attachments/assets/eb7bcac3-04ed-41e8-9620-cbd50b63d0de)
+### 第2步
+点击网站中：**创建 Windows 11 安装** 文字下面 **立即下载**
+![QQ截图20240715010319](https://github.com/user-attachments/assets/80a15cb6-f348-485e-b66c-91063a449aac)
+### 第3步
+打开下载软件
+软件下载位置在浏览器 **下载页面** **点击** 文件夹
+![QQ截图20240715011013](https://github.com/user-attachments/assets/f85b0c57-a53d-44db-8325-c7e8fd450c3a)
+没有找到edge浏览器下载位置看右上角 **三个点**，**三个点** 点击出现多个选项，在其中选项有 **下载** 选项
+![QQ截图20240715010958](https://github.com/user-attachments/assets/fec323de-a69c-413c-9427-a740dbb68779)
+在打开的文件管理器页面，**双击** exe文件
+![QQ截图20240715011117](https://github.com/user-attachments/assets/1f4ac695-e1a6-44ea-abf6-c442e1debaf9)
+如果出现如下界面，选择运行
+![QQ截图20240715011305](https://github.com/user-attachments/assets/4285ebf1-7570-4f11-957c-616be9a1356a)
+启动后，稍等片刻。</description><guid isPermaLink="true">https://blog.273800.xyz//post/dian-nao-xi-tong-an-zhuang-jiao-cheng-%5B-jian-dan-%5D.html</guid><pubDate>Thu, 15 May 2025 12:58:38 +0000</pubDate></item><item><title>介绍</title><link>https://blog.273800.xyz//post/jie-shao.html</link><description>本人学生一枚。</description><guid isPermaLink="true">https://blog.273800.xyz//post/jie-shao.html</guid><pubDate>Thu, 15 May 2025 12:58:02 +0000</pubDate></item><item><title>个人博客测试</title><link>https://blog.273800.xyz//post/ge-ren-bo-ke-ce-shi.html</link><description>测试。</description><guid isPermaLink="true">https://blog.273800.xyz//post/ge-ren-bo-ke-ce-shi.html</guid><pubDate>Thu, 15 May 2025 12:56:40 +0000</pubDate></item></channel></rss>
